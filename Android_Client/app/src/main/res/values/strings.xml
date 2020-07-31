@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Traffic</string>
+    <string name="vehicle_id">Vehicle Id</string>
+    <string name="ip_address">Ip Address</string>
+    <string name="port">Port</string>
+    <string name="topic">Topic</string>
+    <string name="connect">Connect</string>
+    <string name="exit">Exit</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="successfull_connection">Succesfull Connection</string>
+    <string name="unsuccessfull_connection">Unsuccesfull Connection</string>
+    <string name="setup">Setup</string>
+    <string name="connected">Active Internet Connection</string>
+    <string name="disconnected">No Internet Connection</string>
+    <string name="set_timer">Set Time Limit</string>
+    <string name="stop_transmission">Stop Transmission</string>
+    <string name="start_transmission">Start Transmission</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="google_maps_key">AIzaSyBX3LqgS7iG2kHKH4j9Y42GM5TwvIEoDZg</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
